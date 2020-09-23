@@ -1,0 +1,14 @@
+[
+	{
+		"expression": "-x^2-3x+4",
+		"expected": [1, -4]
+	},
+	{
+		"expression": "3x^2+8x+5",
+		"expected": [-1.6666666666666667, -1]
+	},
+	{
+		"expression": "2x^2-5x+3",
+		"expected": [1, 1.5]
+	}
+]
